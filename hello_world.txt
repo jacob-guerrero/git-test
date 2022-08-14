@@ -1,2 +1,3 @@
 Thats a text example.
 Hello, World!
+Thats a new Line
